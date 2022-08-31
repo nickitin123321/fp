@@ -1,5 +1,5 @@
 /*
-  const curedSum = cur(sum);	
+  const curriedSum = cur(sum);
   curriedSum(1)(2)(3);
   curriedSum(1)(2,3);
   curriedSum(1,2)(3);
