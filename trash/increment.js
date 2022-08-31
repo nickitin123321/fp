@@ -1,1 +1,1 @@
-module.exports = { post: x => x++, prefix: x => ++x}
+module.exports = { post: x => x++, prefix: x => ++x }
